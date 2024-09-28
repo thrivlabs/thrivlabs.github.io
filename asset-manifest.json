@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/thrivlabs.com/static/css/main.f855e6bc.css",
-    "main.js": "/thrivlabs.com/static/js/main.6b7f0161.js",
+    "main.js": "/thrivlabs.com/static/js/main.1905665c.js",
     "static/js/453.e7359c39.chunk.js": "/thrivlabs.com/static/js/453.e7359c39.chunk.js",
-    "static/media/logo.svg": "/thrivlabs.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/thrivlabs.com/index.html",
     "main.f855e6bc.css.map": "/thrivlabs.com/static/css/main.f855e6bc.css.map",
-    "main.6b7f0161.js.map": "/thrivlabs.com/static/js/main.6b7f0161.js.map",
+    "main.1905665c.js.map": "/thrivlabs.com/static/js/main.1905665c.js.map",
     "453.e7359c39.chunk.js.map": "/thrivlabs.com/static/js/453.e7359c39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.6b7f0161.js"
+    "static/js/main.1905665c.js"
   ]
 }
